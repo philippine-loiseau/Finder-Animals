@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">AnimalFinder</string>
+
+    <string-array name="animals_array">
+        <item>Cat</item>
+        <item>Dog</item>
+    </string-array>
+    <string-array name="race_dog_array">
+        <item>race_dog1</item>
+        <item>race_dog2</item>
+    </string-array>
+    <string-array name="race_cat_array">
+        <item>race_cat1</item>
+        <item>race_cat2</item>
+    </string-array>
+    <string-array name="taille_array">
+        <item>Petit</item>
+        <item>Moyen</item>
+        <item>Grand</item>
+    </string-array>
+</resources>
